@@ -1,3 +1,3 @@
-Airline Management System
-Overview
-The Airline Management System is a project developed in C that simulates managing an airline. This system includes functionalities such as adding planes, managing flights, and maintaining information about related airports.
+# AirlineProject developed in C
+
+Developed an Airline Managment system for an Airline including add planes, flights and realated airports.
